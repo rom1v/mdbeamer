@@ -1,4 +1,4 @@
-.PHONY: clean run
+.PHONY: clean withversion run
 
 INPUT=slides.md
 OUTPUT=slides.pdf
