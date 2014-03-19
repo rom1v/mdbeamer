@@ -119,7 +119,9 @@ taille. Il est donc pratique d'utiliser directement \LaTeX.
 
 Avec des formules :
 
-\center$\displaystyle\frac{\pi}{4}=\int_0^1 \sqrt{1-x^2}\mathrm dx$
+$$
+\frac{\pi}{4}=\int_0^1 \sqrt{1-x^2}\mathrm dx
+$$
 
 # À vous
 
