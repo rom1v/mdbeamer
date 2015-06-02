@@ -8,6 +8,7 @@ See: <http://blog.rom1v.com/2014/02/des-slides-beamer-en-markdown/>
     sudo apt-get install pandoc \
                          texlive-latex-base \
                          texlive-lang-french \
+                         texlive-fonts-recommended \
                          latex-beamer \
                          impressive
 
