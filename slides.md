@@ -129,6 +129,7 @@ $$
 
     sudo apt-get install pandoc \
                          texlive-latex-base \
+                         texlive-latex-extra \
                          texlive-lang-french \
                          latex-beamer \
                          impressive
