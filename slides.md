@@ -57,7 +57,7 @@ Celle-ci est de [*Mitch Resnick*](https://en.wikipedia.org/wiki/Mitchel_Resnick)
 > If you learn to read, you can then read to learn.\
 > If you learn to code, you can then code to learn.[^ted]
 
-[^ted]: \tiny<http://www.ted.com/talks/mitch_resnick_let_s_teach_kids_to_code.html>
+[^ted]: \tiny http://www.ted.com/talks/mitch\_resnick\_let\_s\_teach\_kids\_to\_code.html
 
 ## Des apparitions
 
